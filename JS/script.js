@@ -1,3 +1,5 @@
+const dataPath = 'Data/classes.json'; // there for use if needed
+
 function searchByClassCode() {
     var classCodeInput = document.getElementById("class-code-input");
     var searchResult = document.getElementById("search-result");
@@ -6,7 +8,7 @@ function searchByClassCode() {
   
     // Load the JSON file, so I have my data
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'classes.json');
+    xhr.open('GET', 'Data/classes.json');
     xhr.onreadystatechange = function() {
       if (xhr.readyState === 4 && xhr.status === 200) {
         var data = JSON.parse(xhr.responseText);

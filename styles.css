@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* big page title */
+  .title {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: -5px;
+    font-family: "Arial", sans-serif;
+    font-size: 48px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  }
+  
+  /* part under the title */
+  .description {
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  /* search bar */
+  .input-field {
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 10px;
+    width: 25%;
+    opacity: 0.75;
+    color: black;
+  }
+  
+
+.input-field::placeholder {
+    color: black;
+  }
+  
+  h1, p, input {
+    color: white;
+    text-align: center;
+  }
+
+  .search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /*submit button labeled search */
+  .search-container button {
+    margin-top: 10px;
+    background-color: transparent;
+    border: none;
+    color: yellow;
+  }
+
+  .link {
+    font-size: calc(100% / 3);
+  }
+  

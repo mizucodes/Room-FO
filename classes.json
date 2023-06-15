@@ -1,0 +1,184 @@
+{
+  "classes": [
+    {
+      "code": "CIS123",
+      "room": "203",
+      "name": "Introduction to Computer Science",
+      "professor": "Dr. Smith"
+    },
+    {
+      "code": "ENG225",
+      "room": "317",
+      "name": "English Literature",
+      "professor": "Dr. Johnson"
+    },
+    {
+      "code": "MAT301",
+      "room": "415",
+      "name": "Advanced Calculus",
+      "professor": "Dr. Thompson"
+    },
+    {
+      "code": "BIO402",
+      "room": "524",
+      "name": "Molecular Biology",
+      "professor": "Dr. Davis"
+    },
+    {
+      "code": "CHE215",
+      "room": "215",
+      "name": "Organic Chemistry",
+      "professor": "Dr. Anderson"
+    },
+    {
+      "code": "PHY525",
+      "room": "321",
+      "name": "Quantum Physics",
+      "professor": "Dr. Wilson"
+    },
+    {
+      "code": "HIS310",
+      "room": "404",
+      "name": "World History",
+      "professor": "Dr. Moore"
+    },
+    {
+      "code": "PSY201",
+      "room": "213",
+      "name": "Introduction to Psychology",
+      "professor": "Dr. Adams"
+    },
+    {
+      "code": "SOC400",
+      "room": "408",
+      "name": "Sociology of Culture",
+      "professor": "Dr. Harris"
+    },
+    {
+      "code": "ART325",
+      "room": "223",
+      "name": "Introduction to Art History",
+      "professor": "Dr. Lee"
+    },
+    {
+      "code": "MUS220",
+      "room": "313",
+      "name": "Music Theory",
+      "professor": "Dr. Martinez"
+    },
+    {
+      "code": "PHI500",
+      "room": "422",
+      "name": "Ethics",
+      "professor": "Dr. Turner"
+    },
+    {
+      "code": "COM312",
+      "room": "303",
+      "name": "Public Speaking",
+      "professor": "Dr. White"
+    },
+    {
+      "code": "ECO420",
+      "room": "411",
+      "name": "Macroeconomics",
+      "professor": "Dr. Parker"
+    },
+    {
+      "code": "MKT400",
+      "room": "505",
+      "name": "Marketing Management",
+      "professor": "Dr. Lewis"
+    },
+    {
+      "code": "HRM315",
+      "room": "315",
+      "name": "Human Resource Management",
+      "professor": "Dr. Campbell"
+    },
+    {
+      "code": "PHYS250",
+      "room": "323",
+      "name": "Classical Mechanics",
+      "professor": "Dr. Reed"
+    },
+    {
+      "code": "FRE301",
+      "room": "402",
+      "name": "French Language and Culture",
+      "professor": "Dr. Martin"
+    },
+    {
+      "code": "SPA201",
+      "room": "208",
+      "name": "Spanish I",
+      "professor": "Dr. Rodriguez"
+    },
+    {
+      "code": "HIS405",
+      "room": "419",
+      "name": "American History",
+      "professor": "Dr. Foster"
+    },
+    {
+      "code": "ANT303",
+      "room": "311",
+      "name": "Cultural Anthropology",
+      "professor": "Dr. Sanchez"
+    },
+    {
+      "code": "POL400",
+      "room": "423",
+      "name": "International Relations",
+      "professor": "Dr. King"
+    },
+    {
+      "code": "PHL320",
+      "room": "307",
+      "name": "Philosophy of Science",
+      "professor": "Dr. Brooks"
+    },
+    {
+      "code": "SOC312",
+      "room": "320",
+      "name": "Social Stratification",
+      "professor": "Dr. Taylor"
+    },
+    {
+      "code": "PSY402",
+      "room": "416",
+      "name": "Abnormal Psychology",
+      "professor": "Dr. Price"
+    },
+    {
+      "code": "BUS500",
+      "room": "510",
+      "name": "Business Strategy",
+      "professor": "Dr. Morris"
+    },
+    {
+      "code": "ENG305",
+      "room": "306",
+      "name": "Creative Writing",
+      "professor": "Dr. Turner"
+    },
+    {
+      "code": "COM400",
+      "room": "501",
+      "name": "Intercultural Communication",
+      "professor": "Dr. Roberts"
+    },
+    {
+      "code": "SCI320",
+      "room": "414",
+      "name": "Environmental Science",
+      "professor": "Dr. Peterson"
+    },
+    {
+      "code": "ART405",
+      "room": "521",
+      "name": "Contemporary Art",
+      "professor": "Dr. Walker"
+    }
+  ]
+}

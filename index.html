@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Room-FO</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <h1 class="title">Room-FO</h1>
+    <p class="description">Search for a room by class code</p>
+    <div class="search-container">
+      <input
+        type="text"
+        id="class-code-input"
+        class="input-field"
+        placeholder="Enter class code"
+        onkeydown="handleSearch(event)"
+      />
+      <button onclick="searchByClassCode()">Search</button>
+    </div>
+    <div id="search-result"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
